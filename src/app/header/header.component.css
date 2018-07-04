@@ -1,0 +1,14 @@
+header {
+    background: green;
+    height: 50px;
+    margin-top:0px;
+    width:100%;
+}
+.logo{
+    width:70%;
+    float:left;
+}
+.logo img {
+    margin-right:23%;
+    float:right;
+}
