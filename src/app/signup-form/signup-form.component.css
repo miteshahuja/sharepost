@@ -1,0 +1,22 @@
+.signup-wrapper {
+    width:400px;
+    height:530px;
+    position: absolute;
+    top:10%;
+    left:50%;
+    border: 1px solid grey;
+    border-radius:10px;
+    background: rgb(168, 204, 114);
+    margin-top: 10px;
+    margin-left:-200px;
+}
+
+.shareBtn {
+    left: 50%;
+    position: absolute;
+    margin-left: -45px;
+}
+
+.card-body {
+    background: rgb(168, 204, 114);
+}
